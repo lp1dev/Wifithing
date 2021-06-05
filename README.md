@@ -27,4 +27,4 @@ You could use multiple network interfaces though, from my calculations it takes 
 
 ---
 
-> This tool has been written as a PoC to answer the question "But how much more efficient is offline cracking on Wi-Fi networks?" - Answer : So much more, using a GTX 1080 you can crack ~2000kH/s, compared to the sad 0.5H/s you can expect from an online approach, it's about 4 Million times faster - BTW I'm not responsible for your actions, if you're stupid (and patient) enough to use this to bruteforce networks you're not authorized to audit, you should rethink your life choices.
+> This tool has been written as a PoC to answer the question "But how much more efficient is offline cracking on Wi-Fi networks?" - Answer : So much more, using a GTX 1080 you can crack ~2000kH/s from a WPA2 handshake, compared to the sad 0.5H/s you can expect from an online approach, it's about 4 Million times faster - BTW I'm not responsible for your actions, if you're stupid (and patient) enough to use this to bruteforce networks you're not authorized to audit, you should rethink your life choices.
